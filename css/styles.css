@@ -115,6 +115,11 @@ h1 {
   font-style: normal;
 }
 
+.tags:before {  /* Added to meet "Exceeds Expectations" requirements */
+  content: ", ";
+  font-style: normal;
+}
+
 @media (min-width: 768px) {
   body {
     padding: 25px;
