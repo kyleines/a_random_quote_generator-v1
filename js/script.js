@@ -109,7 +109,20 @@ function getRandomQuote () {
  * `printQuote` function
 ***/
 
-
+function printQuote () {
+  let quoteObject = getRandomQuote();
+  let html = `
+    <p class="quote">${quoteObject.quote}</p>
+    <p class="source">${quoteObject.source}`;
+  if (quoteObject.citation) {
+    html += `<span class="citation">${quoteObject.citation}</span>`;
+  }
+  if (quoteObject.year) {
+    html += `<span class="year">${quoteObject.year}</span>`;
+  }
+  html += `</p>`;
+  return document.getElementById("quote-box").innerHTML = html;
+}
 
 /***
  * click event listener for the print quote button
