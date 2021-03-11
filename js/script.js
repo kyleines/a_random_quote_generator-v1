@@ -100,6 +100,11 @@ const quotes = [
  * `getRandomQuote` function
 ***/
 
+function getRandomQuote () {
+  let randomNumber = Math.floor(Math.random() * quotes.length);
+  return quotes[randomNumber];
+}
+
 /***
  * `printQuote` function
 ***/
