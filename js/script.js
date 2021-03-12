@@ -42,7 +42,7 @@ const quotes = [
   {
     quote: `You want weapons? We’re in a library! Books! The best weapons in the world!`,
     source: `The Doctor (David Tennant)`,
-    citation: `Doctor Who - Season 2 Epidode 2`,
+    citation: `Doctor Who - Season 2 Episode 2`,
     year: 2006,
     tags: `Motivational`
   },
@@ -52,7 +52,7 @@ const quotes = [
     But the truth is, the world is so much stranger than that. 
     It’s so much darker. And so much madder. And so much better.`,
     source: `Elton Pope (Marc Warren)`,
-    citation: `Doctor Who - Season 2 Epidode 10`,
+    citation: `Doctor Who - Season 2 Episode 10`,
     year: 2006,
     tags: `` // Left blank intentionally
   },
@@ -61,7 +61,7 @@ const quotes = [
     The good things don’t always soften the bad things, 
     but vice versa, the bad things don’t always spoil the good things and make them unimportant.`,
     source: `The Doctor (Matt Smith)`,
-    citation: `Doctor Who - Season 5 Epidode 10`,
+    citation: `Doctor Who - Season 5 Episode 10`,
     year: 2010,
     tags: `Truth`
   },
@@ -69,7 +69,7 @@ const quotes = [
     quote: `Some people live more in 20 years than others do in 80. 
     It’s not the time that matters, it’s the person.`,
     source: `The Doctor (David Tennant)`,
-    citation: `Doctor Who - Season 3 Epidode 6`,
+    citation: `Doctor Who - Season 3 Episode 6`,
     year: 2007,
     tags: `Motivational`
   },
@@ -83,7 +83,7 @@ const quotes = [
   {
     quote: `We’re all stories, in the end. Just make it a good one, eh?`,
     source: `The Doctor (Matt Smith)`,
-    citation: `Doctor Who - Season 5 Epidode 13`,
+    citation: `Doctor Who - Season 5 Episode 13`,
     year: 2010,
     tags: `` // Left blank intentionally
   },
@@ -91,7 +91,7 @@ const quotes = [
     quote: `You don’t just give up. You don’t just let things happen. You make a stand! You say no! 
     You have the guts to do what’s right, even when everyone else just runs away.`,
     source: `Rose Tyler (Billie Piper)`,
-    citation: `Doctor Who - Season 1 Epidode 13`,
+    citation: `Doctor Who - Season 1 Episode 13`,
     year: 2005,
     tags: `Motivational`
   },
@@ -100,7 +100,7 @@ const quotes = [
     a galaxy that’s a corner of a universe that is forever growing and shrinking and creating and 
     destroying and never remaining the same for a single millisecond. And there is so much, so much to see.`,
     source: `The Doctor (Matt Smith)`,
-    citation: `Doctor Who - Season 7 Epidode 4`,
+    citation: `Doctor Who - Season 7 Episode 4`,
     year: 2012,
     tags: `Beautiful`
   }
